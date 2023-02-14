@@ -1,0 +1,10 @@
+C:\Users\Ing. Guillermo Pérez\source\repos\appListas\appListas\bin\Debug\appListas.exe.config
+C:\Users\Ing. Guillermo Pérez\source\repos\appListas\appListas\bin\Debug\appListas.exe
+C:\Users\Ing. Guillermo Pérez\source\repos\appListas\appListas\bin\Debug\appListas.pdb
+C:\Users\Ing. Guillermo Pérez\source\repos\appListas\appListas\obj\Debug\appListas.csproj.AssemblyReference.cache
+C:\Users\Ing. Guillermo Pérez\source\repos\appListas\appListas\obj\Debug\appListas.frmPrincipal.resources
+C:\Users\Ing. Guillermo Pérez\source\repos\appListas\appListas\obj\Debug\appListas.Properties.Resources.resources
+C:\Users\Ing. Guillermo Pérez\source\repos\appListas\appListas\obj\Debug\appListas.csproj.GenerateResource.cache
+C:\Users\Ing. Guillermo Pérez\source\repos\appListas\appListas\obj\Debug\appListas.csproj.CoreCompileInputs.cache
+C:\Users\Ing. Guillermo Pérez\source\repos\appListas\appListas\obj\Debug\appListas.exe
+C:\Users\Ing. Guillermo Pérez\source\repos\appListas\appListas\obj\Debug\appListas.pdb
